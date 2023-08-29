@@ -8,7 +8,7 @@ export default [
   },
   {
     title: 'Developer Portfolio',
-    imgUrl: '',
+    imgUrl: '/assets/Screenshot 2023-08-28 225009.jpg',
     stack: ['Tailwind', 'React+Vite'],
     link: '',
     description: 'My portfolio page built with Tailwind and React+Vite.'
