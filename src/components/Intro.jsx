@@ -10,8 +10,11 @@ function Intro() {
       I am a problem solver and a collaborator. 
       <br />
       <br />
+      <a href="/assets/kp_resume_pdf.pdf" target='_blank' rel='noreferrer noopener' className='text-blue-500 hover:underline underline-offset-2 decoration-3 decoration-blue-800 '>Check out my resume!</a>
+      <br />
+      <br />
       Please feel free to contact me on{' '}
-      <a href='https://www.linkedin.com/in/kolten-pilar/' target='_blank' rel='noreferrer noopener' className='text-blue-500 hover:underline underline-offset-2 text-blue-700 decoration-3 decoration-blue-800 '>LinkedIn </a>
+      <a href='https://www.linkedin.com/in/kolten-pilar/' target='_blank' rel='noreferrer noopener' className='text-blue-500 hover:underline underline-offset-2 decoration-3 decoration-blue-800 '>LinkedIn </a>
        with any questions or opportunities.
       </p>
     </div>
